@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "memoryleakdetector"]
+	url = https://github.com/nguyendanny010/memoryleakdetector.git
+	fetch = +refs/heads/*:refs/remotes/memoryleakdetector/*
+[remote "origin"]
+	url = https://github.com/nguyendanny010/memoryleakdetector.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
