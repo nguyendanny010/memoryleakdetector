@@ -30,3 +30,6 @@ Whenever the application allocates memory for a new object, MLD will store the r
 
 MLD maintains a database to keep track of all dynamic objects being used by the application.
 
+# Project Development Phase: 3
+Implement memory leak detection algorithm to find object memory leaks and report them.
+
